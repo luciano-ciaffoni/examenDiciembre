@@ -12,12 +12,12 @@ En el siguiente repositorio encontrarán las consignas del examen, tienen 80 min
 Clic en el boton verde que dice Code
 Luego en "Open with Github Desktop"
 ```
-1.  Revisar porque no funcionan los estilos. 
-1.  Agregar funcionamiento a los botones de colores, mediante JavaScript: 
+2.  Revisar porque no funcionan los estilos. 
+2.  Agregar funcionamiento a los botones de colores, mediante JavaScript: 
     - Hacer que cambien la imagen del auto, para mostrar las variantes de color.
     - Cambiar el texto para mostrar el nombre del color elegido. 
     - Para esto, utilizaremos el evento: onmouseover, en lugar de onclick.
-1. Agregar funcionamiento al boton de "Más información"
+2. Agregar funcionamiento al boton de "Más información"
     * Al hacer clic, solicitar la edad al usuario: 
         -  Si es mayor de edad, solicitar que ingrese su correo y luego informarle que 
         se pondran en contacto a la brevedad. 
