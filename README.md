@@ -7,7 +7,11 @@ En el siguiente repositorio encontrarán las consignas del examen, tienen 80 min
 
 ## Ejercicios
 
-1.  Clonar con github desktop el siguiente repositorio: /URL/
+1.  Clonar con github desktop el siguiente repositorio:
+```
+Clic en el boton verde que dice Code
+Luego en "Open with Github Desktop"
+```
 1.  Revisar porque no funcionan los estilos. 
 1.  Agregar funcionamiento a los botones de colores, mediante JavaScript: 
     - Hacer que cambien la imagen del auto, para mostrar las variantes de color.
